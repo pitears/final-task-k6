@@ -41,6 +41,7 @@ k6 run performance.js
 ```
 
 ## Report
+![image](https://github.com/pitears/rakamin-final-task-k6/assets/125880337/cde32fe0-77cc-4e70-ba4b-7d7851117a30)
 
 
 
