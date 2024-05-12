@@ -1,4 +1,4 @@
-# Final Task Rakamin Academy X Evermos PBI QA Using K6 On The ReqRes API
+# Integration and Performance Tests Using K6 On The ReqRes API
 
 ## Pre-requisites
 + [Visual Studio Code](https://code.visualstudio.com/download)
