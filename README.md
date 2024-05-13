@@ -41,9 +41,13 @@ k6 run performance.js
 ```
 
 ## Report
-![image](https://github.com/pitears/rakamin-final-task-k6/assets/125880337/22210ebf-6c10-4e50-8076-b0f0bfee9b64)
-![image](https://github.com/pitears/rakamin-final-task-k6/assets/125880337/98cefbed-28ee-436b-be4a-6b8e62f50b43)
-![image](https://github.com/pitears/rakamin-final-task-k6/assets/125880337/249b9e4a-d472-42da-ac8b-6d823e1ee0a2)
+ <img width="600" alt="image" src="https://github.com/pitears/rakamin-final-task-k6/assets/125880337/22210ebf-6c10-4e50-8076-b0f0bfee9b64">
+ <br>
+  <img width="600" alt="image" src="https://github.com/pitears/rakamin-final-task-k6/assets/125880337/98cefbed-28ee-436b-be4a-6b8e62f50b43">
+ <br>
+  <img width="600" alt="image" src="https://github.com/pitears/rakamin-final-task-k6/assets/125880337/22210ebf-6c10-4e50-8076-b0f0bfee9b64">
+ <br>
+
 
 
 
